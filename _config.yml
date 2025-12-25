@@ -1,8 +1,8 @@
 # Site settings
 title: Daniel Anderson
-description: 
-baseurl: ""
-url: ""
+description: Personal portfolio showcasing projects and experience
+baseurl: "" # Leave empty for username.github.io, or "/repository-name" for project site
+url: "https://dtand.github.io" # Your GitHub Pages URL
 
 # Build settings
 markdown: kramdown
