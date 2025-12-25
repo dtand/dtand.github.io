@@ -7,10 +7,10 @@ permalink: /projects/rommergba/
 ![RommerGBA](/assets/images/rommer-gba-001.png)
 
 ## Overview
-RommerGBA is a locally deployed web application designed to assist in reverse engineering of Game Boy Advance ROMS using machine learning and AI-based approaches.  This project is an R&D tool which aids in reverse engineering.
+RommerGBA is a locally deployed web application designed to assist in reverse engineering of Game Boy Advance ROMs using machine learning and AI-based approaches.  This project is an R&D tool which aids in reverse engineering.
 
 ## Technologies Used
-- **JavaScript React w/ Typescript**: web application frontend
+- **JavaScript React w/ TypeScript**: web application frontend
 - **Python REST Flask**: APIs for web application
 - **Python PyTorch**: CNN training and LLM training
 - **BizHawk**: GBA emulator

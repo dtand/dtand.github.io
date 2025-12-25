@@ -10,7 +10,7 @@ permalink: /projects/infinity-cast/
 Infinity Cast is a web application which hosts thousands of short-form AI-generated podcasts. Infinity Cast is a partially complete MVP passion and budget project.
 
 ## Technologies Used
-- **JavaScript React with Typescript**: frontend implementation
+- **JavaScript React with TypeScript**: frontend implementation
 - **NodeJS**: API implementation
 - **Google Gemini**: podcast topic and script generation
 - **Google Gemini TTS**: podcast audio generation
@@ -34,7 +34,6 @@ Infinity Cast leverages the Google Cloud suite along with Gemini APIs to generat
 This was a fascinating project, and the first project I have heavily integrated with existing AI tools. I learned how to work effectively with generated code using Claude Sonnet integrated into my IDE to quickly get a full application up and running within weeks. I also explored other concepts and technologies that I had not used before including: Google Gemini APIs, OAuth integration, N8N workflows and Simple Diffuse APIs for image generation.
 
 ## Links
-- [GitHub Repository](#)
-- [Live Application](https://infinity-cast-app-a53d4055355c.herokuapp.com/)
+- [Live Demo](https://infinity-cast-app-a53d4055355c.herokuapp.com/)
 
 [← Back to Projects](/projects/)
