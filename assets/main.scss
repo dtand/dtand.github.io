@@ -255,6 +255,11 @@ h1, h2, h3, h4, h5, h6 {
   grid-template-columns: 1fr 200px;
   gap: 2rem;
   align-items: center;
+  
+  @include media-query($on-palm) {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
 }
 
 .project-info {
@@ -265,6 +270,10 @@ h1, h2, h3, h4, h5, h6 {
   width: 200px;
   height: 150px;
   flex-shrink: 0;
+  
+  @include media-query($on-palm) {
+    display: none;
+  }
   
   img {
     width: 100%;
